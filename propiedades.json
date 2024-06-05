@@ -1,0 +1,25 @@
+{
+    "name": "Floow file transfer",
+    "short_name": "Floow",
+    "lang": "en-US",
+    "description": "Web app de transferencia de archivos",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+
+      {
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "inicio.html",
+    "display": "standalone",
+    "theme_color": "#rgba(226, 17, 17, 0)",
+    "background_color": "#rgba(226, 17, 17, 0)"
+
+
+  }
