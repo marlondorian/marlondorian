@@ -16,7 +16,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "inicio.html",
+    "start_url": "index.html",
     "display": "standalone",
     "theme_color": "#rgba(226, 17, 17, 0)",
     "background_color": "#rgba(226, 17, 17, 0)"
