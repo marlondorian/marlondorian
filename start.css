@@ -91,20 +91,4 @@ overscroll-behavior: none;
 
 }
 
-@media (prefers-color-scheme: dark) {
-    #devicesplace {
-        position: relative;
-        filter: invert(100%);
-    }
 
-    #contact {
-        filter: invert(100%);
-    }
-
-    #contactname {
-filter: invert(100%);    }
-#devicespd { 
-    position: static;
-}
-
-}
