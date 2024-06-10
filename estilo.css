@@ -1,12 +1,10 @@
 body {
   size: 100%;
   padding-top: -50px; 
-  overflow: auto;
 }
 
 html {
   background-color: aliceblue;
-  overflow: hidden;
 }
 
 #navico {
